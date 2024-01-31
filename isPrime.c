@@ -1,7 +1,7 @@
 /*
-Prime number is always a well-known in math and computer science.
+Prime number is a well-known topic in math and computer science.
 To make sure I am familiar with the property and application of it, this document is going to record some practical utility of prime number in algorithm design.
-  */
+ */
 
 /**
  * This function is going to determine if the input is a prime number or not
