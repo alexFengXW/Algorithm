@@ -1,1 +1,2 @@
-## Algorithm collection from college assignments and LeetCode
+## Algorithm collection
+The collection of simple algorithms
