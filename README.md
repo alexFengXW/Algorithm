@@ -1,2 +1,2 @@
 ## Algorithm collection
-The collection of simple algorithms
+The collection of applied algorithms
